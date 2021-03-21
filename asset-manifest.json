@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/finance-manager/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/finance-manager/static/js/main.c7642b37.chunk.js",
+    "main.js.map": "/finance-manager/static/js/main.c7642b37.chunk.js.map",
+    "runtime-main.js": "/finance-manager/static/js/runtime-main.114e181a.js",
+    "runtime-main.js.map": "/finance-manager/static/js/runtime-main.114e181a.js.map",
+    "static/js/2.af12c812.chunk.js": "/finance-manager/static/js/2.af12c812.chunk.js",
+    "static/js/2.af12c812.chunk.js.map": "/finance-manager/static/js/2.af12c812.chunk.js.map",
+    "static/js/3.daf20b1f.chunk.js": "/finance-manager/static/js/3.daf20b1f.chunk.js",
+    "static/js/3.daf20b1f.chunk.js.map": "/finance-manager/static/js/3.daf20b1f.chunk.js.map",
+    "index.html": "/finance-manager/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/finance-manager/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.af12c812.chunk.js.LICENSE.txt": "/finance-manager/static/js/2.af12c812.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/finance-manager/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.114e181a.js",
+    "static/js/2.af12c812.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.c7642b37.chunk.js"
+  ]
+}
